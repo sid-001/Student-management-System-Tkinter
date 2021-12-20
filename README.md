@@ -1,6 +1,6 @@
 # Student-management-System-Tkinter
 
-A simple Python-3 Tkinter GUI for Student Management System
+A very simple Python-3 Tkinter based GUI for Student Management System
 
 Variable: Defined
 
