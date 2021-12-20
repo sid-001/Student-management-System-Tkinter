@@ -1,4 +1,4 @@
-# Student-management-System-Tkinter
+# Student Management System Tkinter
 
 A very simple Python-3 Tkinter based GUI for Student Management System
 
